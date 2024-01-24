@@ -1,5 +1,5 @@
-from implementation import *
-from config import *
+from .implementation import *
+from .config import *
 
 class apiWrapper:
     apiObject = None
